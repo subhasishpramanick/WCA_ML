@@ -1,0 +1,21 @@
+{
+  "adaboost_threshold": 0.86,
+  "xgboost_threshold": 0.735,
+  "adaboost_params": {
+    "clf__n_estimators": 50,
+    "clf__learning_rate": 0.03,
+    "clf__estimator__min_samples_leaf": 5,
+    "clf__estimator__max_depth": 3
+  },
+  "xgboost_params": {
+    "clf__subsample": 1.0,
+    "clf__scale_pos_weight": 19.537688442211056,
+    "clf__reg_lambda": 10,
+    "clf__n_estimators": 100,
+    "clf__min_child_weight": 3,
+    "clf__max_depth": 2,
+    "clf__learning_rate": 0.03,
+    "clf__gamma": 1,
+    "clf__colsample_bytree": 0.8
+  }
+}

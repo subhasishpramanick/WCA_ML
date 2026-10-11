@@ -1,0 +1,19 @@
+feature,AdaBoost,XGBoost (gain)
+age,0.9085,0.3825
+avg_glucose_level,0.0006,0.1521
+bmi,0.0155,0.0385
+work_type_Govt_job,0.0,0.0
+work_type_Never_worked,0.0,0.0
+work_type_Private,0.0,0.0
+work_type_Self-employed,0.0,0.0304
+work_type_children,0.0,0.0911
+smoking_status_Unknown,0.0,0.0
+smoking_status_formerly smoked,0.0,0.0
+smoking_status_never smoked,0.0,0.0
+smoking_status_smokes,0.0,0.0187
+gender,0.0,0.0
+hypertension,0.0,0.1137
+heart_disease,0.0,0.036
+ever_married,0.0,0.0175
+Residence_type,0.0,0.0059
+bmi_missing,0.0753,0.1136

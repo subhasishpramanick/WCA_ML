@@ -1,0 +1,12 @@
+,AdaBoost,XGBoost
+gender,0.0,0.0
+age,0.28372,0.29462
+hypertension,0.0,-0.00029
+heart_disease,0.0,0.00118
+ever_married,0.0,5e-05
+work_type,0.0,0.00233
+Residence_type,0.0,-0.00016
+avg_glucose_level,-0.00278,0.01332
+bmi,-0.00409,0.00208
+smoking_status,0.0,0.00041
+bmi_missing,-0.0012,0.00212

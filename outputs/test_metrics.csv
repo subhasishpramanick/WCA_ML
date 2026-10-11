@@ -1,0 +1,5 @@
+,Accuracy,Precision,Recall,F1,ROC-AUC,PR-AUC
+"AdaBoost (tuned, thr=0.50)",0.5675,0.0882,0.84,0.1597,0.7812,0.1475
+"AdaBoost (tuned, thr=0.86)",0.8366,0.1803,0.66,0.2833,0.7812,0.1475
+"XGBoost (tuned, thr=0.50)",0.6761,0.1151,0.84,0.2024,0.8389,0.2395
+"XGBoost (tuned, thr=0.73)",0.9149,0.2394,0.34,0.281,0.8389,0.2395

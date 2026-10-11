@@ -1,0 +1,4 @@
+feature,IQR lower,IQR upper,IQR outliers,IQR outliers %,|z|>3 outliers,|z|>3 %,stroke rate among IQR outliers %
+age,-29.0,115.0,0,0.0,0,0.0,
+avg_glucose_level,21.96,169.37,627,12.27,49,0.96,13.4
+bmi,9.1,47.5,110,2.24,58,1.18,1.82

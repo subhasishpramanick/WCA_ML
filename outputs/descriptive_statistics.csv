@@ -1,0 +1,4 @@
+,mean,median,range,IQR,MAD (mean abs. deviation),variance,std dev,skewness
+age,43.23,45.0,81.92,36.0,19.117,511.374,22.614,-0.137
+avg_glucose_level,106.14,91.88,216.62,36.85,33.054,2050.732,45.285,1.573
+bmi,28.895,28.1,87.3,9.6,5.977,61.69,7.854,1.055
